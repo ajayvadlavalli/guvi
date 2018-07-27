@@ -9,12 +9,12 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-	  int a;
+	  int c;
 	  Scanner in=new Scanner(System.in);
-	  a=in.nextInt();
-	  if(a>0)
+	  c=in.nextInt();
+	  if(c>0)
 	  {
-	  	if(a%2==0)
+	  	if(c%2==0)
 	  	{
 	  		System.out.println("Even");
 	  		
